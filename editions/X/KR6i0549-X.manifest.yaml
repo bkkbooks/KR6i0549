@@ -1,0 +1,100 @@
+canonical_identifier: bkk:krp/KR6i0549/X/v1
+canonical_location: https://kanripo.org/bkk/KR6i0549/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 占察善惡業報經義疏
+  identifiers:
+    krp: KR6i0549
+    cbeta: X21n0371
+    cbeta_old_id: X21n0371
+    authorityid: CA0004021
+    json_key: X0371
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X21/X21n0371.xml
+    old_id: X21n0371
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0549_000-X.yaml, hash: 'sha256:c1464e310c8a865c0265d19270f5544163b40fcd231b1f809127468463a80db4'}
+  - {seq: 1, filename: KR6i0549_001-X.yaml, hash: 'sha256:bf1d8e387c95c83ec7522497540ea78219838719c01434a92a818496dab6eef8'}
+  - {seq: 2, filename: KR6i0549_002-X.yaml, hash: 'sha256:a880563da816bd7ea15863f05459741e519e36489b5b0d10c51172441119460b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0549_000-X.markers.yaml, hash: 'sha256:2d3bf7ce54e912248c7d8b2ac947a31b76cb55f7cf9f07d1aa73b578c3cd8e45'}
+  - {seq: 1, role: markers, filename: assets/KR6i0549_001-X.markers.yaml, hash: 'sha256:db4e63d8c195a4ab23c0e1ac5a11b9a57c54d0f7e1d65e81e44e12c3494517e4'}
+  - {seq: 2, role: markers, filename: assets/KR6i0549_002-X.markers.yaml, hash: 'sha256:bc96ec9315d52131b10550803d6a4965fcfcc3193fc708834fe6cdd87b5e9670'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0549_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 20130
+  label: 占察善惡業報經疏卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0549_X_001-mulu-1
+    span:
+    - body
+    - 18
+    - 18
+  label: 科分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0549_X_001-mulu-2
+    span:
+    - body
+    - 85
+    - 85
+  label: 一序段
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0549_X_001-mulu-3
+    span:
+    - body
+    - 3784
+    - 3784
+  label: 二正說段
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0549_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 21880
+  label: 占察善惡業報經疏卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0549_X_002-mulu-1
+    span:
+    - body
+    - 20984
+    - 20984
+  label: 三流通段
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0549_X_002-mulu-2
+    span:
+    - body
+    - 21632
+    - 21632
+  label: No. 371-A 䟦語
+  type: mulu
+  level: 1
+hash: sha256:4a342d819d769b463f46d78827fb8236a9fb14d79601bb9eb2890471d11184a5

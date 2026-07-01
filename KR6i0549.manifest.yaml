@@ -1,0 +1,104 @@
+canonical_identifier: bkk:krp/KR6i0549/v1
+canonical_location: https://kanripo.org/bkk/KR6i0549/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 占察善惡業報經義疏
+  identifiers:
+    alt_id:
+    - X21n0371
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X21/X21n0371.xml
+    old_id: X21n0371
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0549_000.yaml, hash: 'sha256:c1464e310c8a865c0265d19270f5544163b40fcd231b1f809127468463a80db4'}
+  - {seq: 1, filename: KR6i0549_001.yaml, hash: 'sha256:8d1ed97f1061b8368d5a0bb0dcc58bbb28ca5b9ff0c7c3d85f1b579a5463c087'}
+  - {seq: 2, filename: KR6i0549_002.yaml, hash: 'sha256:5fbe781d41aca455a9e73e8bcf934037ed99b3b0bfbebc192dcc041e8da80695'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6i0549_001.markers.yaml, hash: 'sha256:162467135708fe5c700230d39d6ef86f7dc74955bb78d13bc53c2271d5fe818a'}
+  - {seq: 2, role: markers, filename: assets/KR6i0549_002.markers.yaml, hash: 'sha256:79986f798276c1763ba7ba7399a93486c31790dcdeda17dc185774eee7f0667a'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0549_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 20130
+  label: 占察善惡業報經疏卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0549_X_001-mulu-1
+    span:
+    - body
+    - 18
+    - 18
+  label: 科分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0549_X_001-mulu-2
+    span:
+    - body
+    - 85
+    - 85
+  label: 一序段
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0549_X_001-mulu-3
+    span:
+    - body
+    - 3784
+    - 3784
+  label: 二正說段
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0549_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 21880
+  label: 占察善惡業報經疏卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0549_X_002-mulu-1
+    span:
+    - body
+    - 20984
+    - 20984
+  label: 三流通段
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0549_X_002-mulu-2
+    span:
+    - body
+    - 21632
+    - 21632
+  label: No. 371-A 䟦語
+  type: mulu
+  level: 1
+hash: sha256:c6fbb9fd1237915ad0b9ac94c316e66f9798e7e03a2679268896e49a2ea6ed65
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

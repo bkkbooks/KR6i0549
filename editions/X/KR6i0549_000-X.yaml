@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0549/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 占察善惡業報經義疏
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X21/X21n0371.xml
+    old_id: X21n0371
+hash: sha256:c1464e310c8a865c0265d19270f5544163b40fcd231b1f809127468463a80db4
